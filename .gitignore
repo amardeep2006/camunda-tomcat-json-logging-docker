@@ -1,7 +1,6 @@
 .gradle
 build/
 target/
-bin/
 .settings
 .sts*
 
